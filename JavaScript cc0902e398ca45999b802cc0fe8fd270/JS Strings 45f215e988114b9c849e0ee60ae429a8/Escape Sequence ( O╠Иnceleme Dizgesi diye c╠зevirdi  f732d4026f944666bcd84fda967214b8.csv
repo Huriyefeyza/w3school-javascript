@@ -1,0 +1,7 @@
+﻿Code,Result,Yani
+\b,"Backspace                                ",Geri Alma
+\f,Form Feed,Sayfa Başı ya da Sayfa İlerletme
+\n,New Line,Yeni Satır
+\r,Carriage Return,Satır Başı
+\t,Horizontal Tabulator,Yatay Sekme
+\v,Vertical Tabulator,Dikey Sekme

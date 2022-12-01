@@ -1,0 +1,7 @@
+﻿Error Name,Description
+EvalError,eval() fonksiyonunda hata
+RangeError,"Aralık dışı sayı "
+ReferenceError,Bilinmeyen referans
+SyntaxError,Syntax Hatası
+TypeError,Tip Hatası
+URIError,encodeURI() ' da hata

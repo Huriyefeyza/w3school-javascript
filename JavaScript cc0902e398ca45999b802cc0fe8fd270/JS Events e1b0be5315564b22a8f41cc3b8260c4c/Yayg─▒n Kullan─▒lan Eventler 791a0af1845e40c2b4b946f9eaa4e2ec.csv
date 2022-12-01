@@ -1,0 +1,7 @@
+﻿Event,Description
+onchange,HTML öğresini değiştir.
+onclick,Kullanıcı HTML öğesine tıkladığında
+onmouseover,Kullanıcı fareyi bir HTML öğesine götürdüğünde
+onmouseout,Kullanıcı fareyi HTML öğesinden uzaklaştırdığında
+onkeydown,Kullanıcı bir klavye tuşuna basar
+onload,Tarayıcı sayfayı yüklemeyi bitirdiğinde

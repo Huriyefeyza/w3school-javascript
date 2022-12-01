@@ -1,0 +1,4 @@
+﻿Method,Description
+toExponential(),Sayı yuvarlanmış ve üstel gösterim kullanan string döndürür
+toFixed(),"Yuvarlanmış, belirtilen sayıda ondalık yazan bir string döndürür"
+toPrecision(),Belirli uzunlukta yazılmış bir sayıyı string döndürür.
