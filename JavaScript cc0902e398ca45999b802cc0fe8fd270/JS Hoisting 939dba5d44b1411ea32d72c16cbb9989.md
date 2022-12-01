@@ -62,6 +62,6 @@ Bu  örnekte y değeri undefined. Çünkü var y değeri yukarı taşınırken (
 ### Değişkenlerinizi En Üstte Bildirin
 
 <aside>
-💡 w3school yazarı diyor ki : " Hoisting işlemini programcılar anlamıyor ve gözden kaçırıyor aslında çok önemli, Bunu anlamayan çok bug'la uğraşır." Tam olarak bunu demese de buna götürüyor. Ayrıca ben bunu yeni bir şey öğreniyormuş heyecanıyla okudum. Biz zaten böyle tanıtıyoruz değişkenleri ya püüüf.... ABV.....
+💡 w3school yazarı diyor ki : " Hoisting işlemini programcılar anlamıyor ve gözden kaçırıyor aslında çok önemli, Bunu anlamayan çok bug'la uğraşır." Tam olarak bunu demese de buna götürüyor. Ayrıca ben bunu yeni bir şey öğreniyormuş heyecanıyla okudum. Biz zaten böyle tanıtıyoruz değişkenleri ya püüüf..
 
 </aside>
